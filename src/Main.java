@@ -10,6 +10,7 @@ public class Main {
 		System.out.println("lala2");
 		System.out.println("lala3");
 		System.out.println("lala4");
+		System.out.println("lala5");
 
 	}
 
