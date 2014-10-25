@@ -6,6 +6,7 @@ public class Main {
 		System.out.println(unu.getNume());
 		System.out.println(unu.getPrenume());
 		System.out.println(unu.getVarsta());
+		System.out.println("lala");
 	}
 
 		
