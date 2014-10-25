@@ -8,7 +8,9 @@ public class Main {
 		System.out.println(unu.getVarsta());
 		System.out.println("lala");
 		System.out.println("lala2");
+		System.out.println("lala3");
 		System.out.println("lala4");
+
 	}
 
 		
